@@ -6,7 +6,7 @@
 <div class ="aaa">
 <a href="https://github.com/thatsallaboutleo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thatsallaboutleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img width="400" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsallaboutleo&layout=compact&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsallaboutleo&layout=compact&theme=dracula"/>
 </div>
 
 #### Stack principal:
