@@ -1,5 +1,5 @@
 <p align="center">
- Prazer, Leonardo! Desenvolvedor Jr. (x = > x.LinguagemDoCoracao = c#). <br/> 
+ Prazer, Leonardo! Desenvolvedor Jr. (x = > x.LinguagemDoCoracao = c#) <br/> 
  Amor por tudo que a tecnologia pode oferecer e altamente interessado em aprender tudo que couber na memória!  
 </p>&nbsp;
 
