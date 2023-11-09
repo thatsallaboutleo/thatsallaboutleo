@@ -3,10 +3,10 @@
  Amor por tudo que a tecnologia pode oferecer e altamente interessado em aprender tudo que couber na memória!  
 </p>&nbsp;
 
-<div>
+<div class ="aaa">
 <a href="https://github.com/thatsallaboutleo">
-<img width="50" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thatsallaboutleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img width="50" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsallaboutleo&layout=compact&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thatsallaboutleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="400" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsallaboutleo&layout=compact&theme=dracula"/>
 </div>
 
 #### Stack principal:
